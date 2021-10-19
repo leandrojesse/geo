@@ -1,0 +1,26 @@
+[
+  {
+    "key" : "SPPTA",
+    "name" : "Av Paulista",
+    "latitude" :-23.557405541725412,
+    "longitude" : -46.66131148992266
+  },
+  {
+    "key" : "SPFCC",
+    "name" : "Shopping Frei Caneca",
+    "latitude" : -23.553475612496168, 
+    "longitude" : -46.65302081410905
+  },
+  {
+    "key" : "SPOFR",
+    "name" : "Oscar Freire",
+    "latitude" : -23.563700730475, 
+    "longitude" : -46.66802836053132
+  },
+  {
+    "key" : "SPEDR",
+    "name" : "Shopping Eldorado",
+    "latitude" : -23.574043888694412, 
+    "longitude" : -46.69624664443416
+  }
+]
